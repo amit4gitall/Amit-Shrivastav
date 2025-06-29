@@ -75,3 +75,9 @@ I’m passionate about creating apps that make people’s lives better, love sha
 ---
 
 ⭐ **If you like my work, please star my repositories – your support motivates me to keep learning and building!**
+
+
+🤝 **Open Source Contributions**
+
+- 📌 [First Contributions](https://github.com/firstcontributions/first-contributions) – Added myself to the contributors list.
+- 📌 [Public APIs](https://github.com/public-apis/public-apis) – Fixed typos & added new API.
